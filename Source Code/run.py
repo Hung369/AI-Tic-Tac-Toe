@@ -9,15 +9,15 @@ width = 800
 
 # initialize the GUI game
 screen = pygame.display.set_mode((width, height))
-img = pygame.image.load('./some_images/download.jpg')
+img = pygame.image.load('download.jpg')
 pygame.display.set_caption('DRAGON-FANG')
 pygame.display.set_icon(img)
 font = pygame.font.Font('freesansbold.ttf', 40)
 theme = (0, 0, 0)
 text = (255, 255, 255)
 
-three_img = pygame.image.load('./some_images/firstbutton.jpg').convert_alpha()
-five_img = pygame.image.load('./some_images/secondbutton.jpg').convert_alpha()
+three_img = pygame.image.load('firstbutton.jpg').convert_alpha()
+five_img = pygame.image.load('secondbutton.jpg').convert_alpha()
 
 # create button variable
 first_button = Button.Button(50, 200, three_img, 0.8)
