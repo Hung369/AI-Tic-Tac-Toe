@@ -9,7 +9,7 @@ width = 800
 
 # initialize the GUI game
 screen = pygame.display.set_mode((width, height))
-img = pygame.image.load('download.jpg')
+img = pygame.image.load('./some_images/download.jpg')
 pygame.display.set_caption('DRAGON-FANG')
 pygame.display.set_icon(img)
 font = pygame.font.Font('freesansbold.ttf', 40)
