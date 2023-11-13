@@ -34,7 +34,7 @@ Demo Link:
 #### Note: The demo link in the report file has been terminated for long time ago. So use the given link instead
 
 
-## Acknowledgements
+## References
 
  - [Tic Tac Toe Minimax](https://www.researchgate.net/publication/346813363_Analysis_of_Minimax_Algorithm_Using_Tic-Tac-Toe)
  - [Pygame Tutor](https://www.youtube.com/watch?v=FfWpgLFMI7w)
