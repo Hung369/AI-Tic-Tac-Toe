@@ -30,7 +30,7 @@ After setting up all folders and installing all necessary libraries, use bellow 
 ```
 ## Demo
 
-Demo Link: 
+Demo Link: https://youtu.be/L7GAKvWmsZw
 #### Note: The demo link in the report file has been terminated for long time ago. So use the given link instead
 
 
