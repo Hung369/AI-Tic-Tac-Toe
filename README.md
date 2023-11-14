@@ -1,7 +1,7 @@
 
 # HCMUS - Tic Tac Toe
 
-You are going to play tic tac toe with a AI which was built with Minimum Spaning Tree Algorithm.
+You are going to play tic tac toe with an AI which was built with Minimum Spaning Tree Algorithm.
 There are 3x3, 5x5 maps. Player will control player 1, Computer will control player 2 (and vice versa).
 
 - In 3x3 map, player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row is the winner
